@@ -6,7 +6,7 @@
 ## 🛠️ Skills
 ### Data Analysis
 
-SQL
+SQL\
 Microsoft Excel
 Data Cleaning & Transformation
 Exploratory Data Analysis
