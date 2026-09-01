@@ -7,10 +7,10 @@
 ### Data Analysis
 
 SQL\
-Microsoft Excel
-Data Cleaning & Transformation
-Exploratory Data Analysis
-Business Insights
+Microsoft Excel\
+Data Cleaning & Transformation\
+Exploratory Data Analysis\
+Business Insights\
 
 ###SQL
 DDL, DML & DQL
