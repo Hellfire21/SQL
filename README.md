@@ -3,8 +3,8 @@
 ### I’m building my skills in data analysis, SQL, Excel, data cleaning, business insights, and reporting through hands-on projects.
 ### I enjoy transforming raw data into structured analysis and clear, business-focused insights.
 
-##🛠️ Skills
-###Data Analysis
+## 🛠️ Skills
+### Data Analysis
 
 SQL
 Microsoft Excel
