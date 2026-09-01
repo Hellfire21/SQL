@@ -1,4 +1,4 @@
-#Hi, I'm Rashmin Patil 👋
+# Hi, I'm Rashmin Patil 👋
 ##Aspiring Data Analyst | SQL | Excel | Data Visualization
 ###I’m building my skills in data analysis, SQL, Excel, data cleaning, business insights, and reporting through hands-on projects.
 ###I enjoy transforming raw data into structured analysis and clear, business-focused insights.
